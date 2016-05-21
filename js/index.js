@@ -111,7 +111,7 @@ FancyButton.defaultProps = {
 	height: 100,
 	fontSize: 40,
 	borderWidth: 15,
-	buttonText: 'FANCY BUTTON'
+	buttonText: 'ПРОСТО КНОПКА'
 };
 
 React.render(React.createElement(FancyButton, null), document.getElementById('app'));
